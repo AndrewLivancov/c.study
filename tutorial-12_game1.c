@@ -23,7 +23,6 @@ int main()
 
     mas[y][x] = '@';
     mas[ay][ax] = '*';
-
     system("cls");
 
  for (i = 0; i < 10; i++)
